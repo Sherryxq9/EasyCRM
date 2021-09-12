@@ -8,7 +8,7 @@ from flask_script import (
     prompt_bool,
 )
 
-
+// test
 def _make_context():
     return dict(
         app=create_app(),
